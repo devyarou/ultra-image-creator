@@ -358,4 +358,12 @@ input[type="file"] {
 }
 .stock-del-btn:hover {
   background: #d32f2f;
+}
+.friskman-img {
+  display: block;
+  margin: 24px auto 8px auto;
+  max-width: 90%;
+  height: auto;
+  border-radius: 12px;
+  box-shadow: 0 2px 12px #0002;
 } 
